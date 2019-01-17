@@ -2,5 +2,6 @@
   "name": "lerna-test",
   "version": "1.0.1-alpha.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "fe4c9101080a2d78470d4703a76d3dcb72c5c5cc"
 }
